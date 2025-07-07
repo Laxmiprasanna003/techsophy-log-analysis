@@ -1,0 +1,6 @@
+[2025-07-07 10:00:00] INFO: Server started
+[2025-07-07 10:01:00] INFO: User login
+[2025-07-07 10:02:00] ERROR: DB connection failed
+[2025-07-07 10:02:15] ERROR: DB connection failed
+[2025-07-07 10:02:30] ERROR: DB connection failed
+[2025-07-07 10:03:00] ERROR: DB connection failed
